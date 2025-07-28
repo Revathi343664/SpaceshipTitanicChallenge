@@ -97,12 +97,8 @@ To run this project:
     cd spaceship-titanic
     ```
 2.  **Install Dependencies:**
-    It's recommended to create a virtual environment first.
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    pip install -r requirements.txt
-    ```
+    Based on the Project Requirements, Install Particular Libraries and Packages.
+   
 3.  **Download Data:**
     Obtain the `train.csv` and `test.csv` datasets directly from the [Spaceship Titanic Kaggle competition page](https://www.kaggle.com/competitions/spaceship-titanic/data) and place them in a `data/` directory within the `spaceship-titanic/` root. (You might need to create this directory).
 4.  **Run the Notebook:**
